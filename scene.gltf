@@ -336,16 +336,16 @@
   ],
   "images": [
     {
-      "uri": "textures/M_2_baseColor.png"
+      "uri": "M_2_baseColor.png"
     },
     {
-      "uri": "textures/M_1_baseColor.png"
+      "uri": "M_1_baseColor.png"
     },
     {
-      "uri": "textures/M_1_normal.png"
+      "uri": "M_1_normal.png"
     },
     {
-      "uri": "textures/M_1_emissive.png"
+      "uri": "M_1_emissive.png"
     }
   ],
   "materials": [
